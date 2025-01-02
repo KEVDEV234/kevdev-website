@@ -309,12 +309,15 @@ footer {
     }
     .social a {
         color: var(--text-color);
-        margin: 0 20px;
+        margin: 20px 20px;
         font-size: var(--p-font);
         text-shadow: 2px 3px black;
         transition: all .3s ease;
-        margin: 20px;
     }
+    .contact h2 {
+        text-align: center;
+        font-size: 2.5rem;
+    
     footer {
         background-color: var(--bg-color3);
         display: flex;
