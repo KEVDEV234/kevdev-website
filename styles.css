@@ -238,7 +238,7 @@ hr {
     border: none;
     background-color: var(--main-color);
 }
-footer {
+footer .foot {
     background-color: var(--bg-color3);
     display: flex;
     flex-direction: row;
